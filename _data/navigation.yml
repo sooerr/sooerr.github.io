@@ -6,7 +6,8 @@ main:
   - title: "Tech"
     url: /tech/    
   - title: "Project"
-    url: /projects/    
+    # url: /projects/    
+    url: /blog/project_categories/
   - title: "Manage"
     url: /manage/    
   - title: "Archives"
