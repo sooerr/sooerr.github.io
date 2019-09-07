@@ -3,7 +3,13 @@
 main:
   - title: "About"
     url: /about/
+  - title: "Tech"
+    url: /tech/    
+  - title: "Project"
+    url: /project/    
+  - title: "Manage"
+    url: /manage/    
   - title: "Archives"
     url: /archives/
-  - title: "GitHub"
-    url: https://github.com/yous/whiteglass
+  #- title: "GitHub"
+  #  url: https://github.com/yous/whiteglass
